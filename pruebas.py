@@ -57,7 +57,7 @@ if pin == 1235:
                     print(f"Saldo: ${saldo}")
                     print("Fecha:", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
                     print("Banco de cuenta: ****** Sucursal Londres")
-                    print("                                                                       ")
+                    print("      AQUI ESTA EL CAMBIO                                                     ")
                     print(" -----------------------------------------------------------------------")
                 else:
                     print("HASTA LUEGO")
